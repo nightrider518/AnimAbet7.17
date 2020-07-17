@@ -1,0 +1,410 @@
+fileFormatVersion: 2
+guid: 80a4dc467866c6341965b0d419a0111b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 732155221326900378
+    second: Anim-page-2_0
+  - first:
+      213: 4911441760983886853
+    second: Anim-page-2_1
+  - first:
+      213: 5252197086478867252
+    second: Anim-page-2_2
+  - first:
+      213: 5169707277925730206
+    second: Anim-page-2_3
+  - first:
+      213: -8815165714711434309
+    second: Anim-page-2_4
+  - first:
+      213: -7263174429397090575
+    second: Anim-page-2_5
+  - first:
+      213: -6113747405703177700
+    second: Anim-page-2_6
+  - first:
+      213: -301972242473430218
+    second: Anim-page-2_7
+  - first:
+      213: 2627173725539226914
+    second: Anim-page-2_8
+  - first:
+      213: 6078991555582725234
+    second: Anim-page-2_9
+  - first:
+      213: -4962318366757607679
+    second: Anim-page-2_10
+  - first:
+      213: -8184905769476833274
+    second: Anim-page-2_11
+  - first:
+      213: -7463785523911246247
+    second: Anim-page-2_12
+  - first:
+      213: 2946080828717409525
+    second: Anim-page-2_13
+  - first:
+      213: -6774995660648049768
+    second: Anim-page-2_14
+  - first:
+      213: -3464937124765640040
+    second: Anim-page-2_15
+  - first:
+      213: 8861624235421823737
+    second: Anim-page-2_16
+  - first:
+      213: 6011145195882836905
+    second: Anim-page-2_17
+  - first:
+      213: -4756825188621935517
+    second: Anim-page-2_18
+  - first:
+      213: -5737469040346159889
+    second: Anim-page-2_19
+  - first:
+      213: 569393906198993545
+    second: Anim-page-2_20
+  - first:
+      213: 3703409380363491353
+    second: Anim-page-2_21
+  - first:
+      213: -6033829729576801946
+    second: Anim-page-2_0
+  - first:
+      213: 4714478849411143955
+    second: Anim-page-2_1
+  - first:
+      213: 2504776253008413653
+    second: Anim-page-2_2
+  - first:
+      213: 8648222243233299064
+    second: Anim-page-2_3
+  - first:
+      213: -6554155466919399639
+    second: Anim-page-2_4
+  - first:
+      213: -711159911913079612
+    second: Anim-page-2_5
+  - first:
+      213: -5352727805046957290
+    second: Anim-page-2_6
+  - first:
+      213: -9006710958408289928
+    second: Anim-page-2_7
+  - first:
+      213: 5032618232754310465
+    second: Anim-page-2_8
+  - first:
+      213: 7347269781846008112
+    second: Anim-page-2_9
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 184
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anim-page-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669226d54d7834ca0800000000000000
+      internalID: -6033829729576801946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 327
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3195e3009813d6140800000000000000
+      internalID: 4714478849411143955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 327
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d386623bb0c2c220800000000000000
+      internalID: 2504776253008413653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_3
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 327
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a7d8a5f48a40870800000000000000
+      internalID: 8648222243233299064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 327
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92fa5970456fa05a0800000000000000
+      internalID: -6554155466919399639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3ce7f3d37126f0800000000000000
+      internalID: -711159911913079612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_6
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 5
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bd1d8db6a47b5b0800000000000000
+      internalID: -5352727805046957290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 5
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871b4795a1cb10380800000000000000
+      internalID: -9006710958408289928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_8
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 5
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d89756e9377d540800000000000000
+      internalID: 5032618232754310465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anim-page-2_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 5
+        width: 184
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 031a4e760feb6f560800000000000000
+      internalID: 7347269781846008112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ce5f8fd2e15ab9a4d9fb73b228685251
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
