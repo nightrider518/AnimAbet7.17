@@ -100,6 +100,13 @@ public class DeckOfCards : MonoBehaviour
 
         textFile = (TextAsset)Resources.Load(("words3.501"), typeof(TextAsset));
 
+    }
+
+
+    void Start()
+    {
+        CreateCapsule(); // INFO-GAMER Create a networked player object for each player that loads into the multiplayer scenes.
+
         players = new Player[4];
         for (int i = 0; i < 4; i++) playerScore[i] = 0;
 
@@ -130,13 +137,6 @@ public class DeckOfCards : MonoBehaviour
         };
 
         DealHands();
-    }
-
-
-    void Start()
-    {
-        CreateCapsule(); // INFO-GAMER Create a networked player object for each player that loads into the multiplayer scenes.
-            
 
     }
 

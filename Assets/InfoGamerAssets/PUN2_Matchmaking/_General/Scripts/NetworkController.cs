@@ -25,7 +25,7 @@ public class NetworkController : MonoBehaviourPunCallbacks
     private void Start()
     {
 
-        Debug.Log("start of   start()");
+        Debug.Log("start of  NetworkController  start()");
 
         if (connectOnStart)
         {
@@ -38,7 +38,7 @@ public class NetworkController : MonoBehaviourPunCallbacks
             Connect();
         }
 
-        Debug.Log("  end of   start()");
+        Debug.Log("  end of  NetworkController  start()");
     }
 
     // Start is called before the first frame update
